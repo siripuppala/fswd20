@@ -1,0 +1,75 @@
+var clientname ="MArk";
+var age=32;
+var weight = 127.4;
+ 
+
+var enrollment =99;
+var medianGrade = 2.8;
+var credits = 5+4+(2*3);
+alert(credits);
+
+
+var rand1to10 = Math.floor(Math.random() * 10 + 1);
+var three = Math.floor(Math.PI);
+
+
+
+var iLike190M = true;
+var ieIsGood = "IE6" > 0; // false
+if ("web devevelopment is great") { /* true */ }
+if (0) { /* false */ 
+
+var s = "Bob Client";
+var fName = s.substring(0, s.indexOf(" ")); // "Bob"
+var len = s.length; // 10
+var s2 = 'Ben Merchant';				         			
+
+
+
+var s = "Bob Client";
+var fName = s.substring(0, s.indexOf(" ")); // "Bob"
+var len = s.length; // 10
+var s2 = 'Ben Merchant';
+
+
+5<4;
+5<7;
+5<"7";
+
+
+"5"==5;	
+"5"===5;
+
+
+
+var name = []; // empty array
+var name = [value, value, ..., value]; // pre-filled
+name[index] = value; // store element		  		           
+
+var ducks = ["Huey", "Dewey", "Louie"];
+var stooges = []; // stooges.length is 0
+stooges[0] = "Larry"; // stooges.length is 1
+stooges[1] = "Moe"; // stooges.length is 2
+stooges[4] = "Curly"; // stooges.length is 5
+stooges[4] = "Shemp"; // stooges.length is 5	
+
+var arr = [1,2,3,4];
+arr.length  
+arr.push(5);
+arr.pop();
+arr.reverse();
+arr.sort();
+arr.shift(1);
+arr.unshift(55);
+
+
+
+
+var data=12;
+if(isNaN(data)){
+ console.log("Not a number");
+}
+else {
+console.log(data);
+}
+			         			
